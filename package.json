@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/juliavolk96/animation_new.git"
-  },
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
