@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:juliavolk96/animation_new.git"
+    "url": "https://github.com/juliavolk96/animation_new.git"
   },
   "scripts": {
     "start": "webpack serve --mode development",
